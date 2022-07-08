@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/ECR20SIMPLE/static/css/main.d010765f.css",
-    "main.js": "/ECR20SIMPLE/static/js/main.541b1fd3.js",
-    "static/js/787.c4e7f8f9.chunk.js": "/ECR20SIMPLE/static/js/787.c4e7f8f9.chunk.js",
-    "static/media/logo.svg": "/ECR20SIMPLE/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/ECR20SIMPLE/index.html",
-    "main.d010765f.css.map": "/ECR20SIMPLE/static/css/main.d010765f.css.map",
-    "main.541b1fd3.js.map": "/ECR20SIMPLE/static/js/main.541b1fd3.js.map",
-    "787.c4e7f8f9.chunk.js.map": "/ECR20SIMPLE/static/js/787.c4e7f8f9.chunk.js.map"
+    "main.css": "/ERC20SIMPLE/static/css/main.d010765f.css",
+    "main.js": "/ERC20SIMPLE/static/js/main.a43b4483.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/ERC20SIMPLE/static/js/787.c4e7f8f9.chunk.js",
+    "static/media/logo.svg": "/ERC20SIMPLE/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/ERC20SIMPLE/index.html",
+    "main.d010765f.css.map": "/ERC20SIMPLE/static/css/main.d010765f.css.map",
+    "main.a43b4483.js.map": "/ERC20SIMPLE/static/js/main.a43b4483.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/ERC20SIMPLE/static/js/787.c4e7f8f9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d010765f.css",
-    "static/js/main.541b1fd3.js"
+    "static/js/main.a43b4483.js"
   ]
 }
